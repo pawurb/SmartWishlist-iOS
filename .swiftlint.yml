@@ -1,0 +1,13 @@
+opt_in_rules:
+  - empty_count
+  - sorted_imports
+disabled_rules:
+  - trailing_whitespace
+  - todo
+included:
+  - Source
+  - Tests
+excluded:
+  - Pods
+  - Tests/Mocks
+
